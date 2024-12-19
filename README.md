@@ -1,7 +1,7 @@
 # Hi there, I'm Aniruddh! 👋
 
 ## About Me
-I'm a Full Stack Intern at **@unifyxperts**, passionate about building impactful solutions with cutting-edge technologies.
+I'm a Full Stack Developer at **@unifyxperts**, passionate about building impactful solutions with cutting-edge technologies.
 
 ### Tech Skills
 - Python
